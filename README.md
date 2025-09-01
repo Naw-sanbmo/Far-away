@@ -1,6 +1,15 @@
-# ⚛️ Simple React App
+# ⚛️ Far Away — Travel Packing List App
 
-A basic React project built using **Create React App**, with **JavaScript**, **HTML**, and **CSS**. Demonstrates **controlled form elements** using React's `useState` hook.
+Far Away is a simple and handy web app designed for travelers. It helps you organize your packing by allowing you to:
+
+- ➕ **Add items** you want to bring on your trip.
+- ✔️ **Check off items** as you pack them, so you never forget anything.
+- 🔀 **Sort your packing list** by item name, description, or whether it’s packed.
+- 🗑️ **Clear the entire list** once you're done packing all your items.
+
+Built with React using functional components and the `useState` hook, Far Away offers a smooth and intuitive experience for managing your travel essentials.
+
+Pack smarter, travel farther!
 
 ---
 
