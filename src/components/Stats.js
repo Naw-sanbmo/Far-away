@@ -2,7 +2,7 @@ export function Stats({ items }) {
   if (!items.length)
     return (
       <p className="stats">
-        <em>Start adding necessary items to your packing list🚀</em>
+        <em>🤔 Start adding necessary items to your packing list🚀</em>
       </p>
     );
 
@@ -14,8 +14,8 @@ export function Stats({ items }) {
     <footer className="stats">
       <em>
         {percentage === 100
-          ? "You got everything! ready to go 🧳"
-          : `You have ${
+          ? "You got everything! ready to go 👍"
+          : `🧳 You have ${
               numItems === 1 ? "1 item" : `${numItems} items`
             } on your list, and you already packed
         ${packedItems} (${percentage}%)`}
